@@ -7,7 +7,7 @@
 - <b>Personal and School Java Projects</b>
   - [BlackJack Game (All in Terminal with Functional Betting and Money System)](https://github.com/MauricioTrujilloPerera/blackjack-java)
 - <b>Python</b>
-  - [RPG Turn-Based PVP Game(Game Engine Created within Code)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [W.I.P RPG Turn-Based PVP Game(Game Engine Created within Code)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
 
