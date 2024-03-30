@@ -26,6 +26,8 @@
 [instagram]: https://www.instagram.com/mauricio.ttrujillo/?next=%2F
 [linkedin]: www.linkedin.com/in/mauricio-trujillo-perera-1471952b0
 
+<h2> </h2>
+
 <h2>👨‍💻 Intersts And Fun Facts:</h2>
 
 - <b>I love Hunting, the Outdoors and Cmamping</b>
