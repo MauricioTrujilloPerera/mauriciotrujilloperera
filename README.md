@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mauricio! <br/><a href="https://github.com/joshmadakor1">and I'm a Programmer.</a></h1>
+<h1>Hi, I'm Mauricio! <br/><a href="https://github.com/MauricioTrujilloPerera">and I'm a Programmer.</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
