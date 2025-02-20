@@ -1,7 +1,10 @@
-<h1>Hi, I'm Mauricio! <br/><a href="https://github.com/MauricioTrujilloPerera">and I'm a Programmer.</a></h1>
+<h1>Hi, I'm Mauricio! <br/><a href="https://github.com/MauricioTrujilloPerera">and I'm a Full-Stack Programmer.</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Websites (React with Nextjs)</b>
+  - [Personal Landing Page](https://molerate.com)
+  - [Personal Hunting Service](https://elkexpedition.com)
 - <b>Websites (HTML, CSS AND JS)</b>
   - [Website for a Buddy of Mine](https://github.com/MauricioTrujilloPerera/alexarguetaWebsite)
 - <b>Personal and School Java Projects</b>
