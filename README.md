@@ -16,6 +16,7 @@
 
 [<img align="left" alt="Mauricio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mauricio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2>www.linkedin.com/in/mauricio-trujillo-perera-1471952b0</h2>
 
 
 [instagram]: https://www.instagram.com/mauricio.ttrujillo/?next=%2F
